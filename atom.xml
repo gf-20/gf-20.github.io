@@ -3,11 +3,11 @@
   <title>呐五</title>
   <icon>https://www.gravatar.com/avatar/4a26970c53bfea031190c45d05a7a2e0</icon>
   <subtitle>空无一人的捉迷藏</subtitle>
-  <link href="https://gf-20.github.io/atom.xml" rel="self"/>
+  <link href="gits://gf-20.github.io/atom.xml" rel="self"/>
   
-  <link href="https://gf-20.github.io/"/>
-  <updated>2021-06-06T23:05:10.396Z</updated>
-  <id>https://gf-20.github.io/</id>
+  <link href="gits://gf-20.github.io/"/>
+  <updated>2021-06-06T23:10:23.323Z</updated>
+  <id>gits://gf-20.github.io/</id>
   
   <author>
     <name>DY</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title></title>
-    <link href="https://gf-20.github.io/2021/06070.html"/>
-    <id>https://gf-20.github.io/2021/06070.html</id>
+    <link href="gits://gf-20.github.io/2021/06070.html"/>
+    <id>gits://gf-20.github.io/2021/06070.html</id>
     <published>2021-06-06T22:22:03.987Z</published>
-    <updated>2021-06-06T23:05:10.396Z</updated>
+    <updated>2021-06-06T23:10:23.323Z</updated>
     
     
       
@@ -46,8 +46,8 @@
   
   <entry>
     <title>恋词memo</title>
-    <link href="https://gf-20.github.io/2021/041036349.html"/>
-    <id>https://gf-20.github.io/2021/041036349.html</id>
+    <link href="gits://gf-20.github.io/2021/041036349.html"/>
+    <id>gits://gf-20.github.io/2021/041036349.html</id>
     <published>2021-04-10T07:59:50.000Z</published>
     <updated>2021-04-13T09:19:40.337Z</updated>
     
@@ -69,8 +69,8 @@
   
   <entry>
     <title>鲲</title>
-    <link href="https://gf-20.github.io/2021/03228485.html"/>
-    <id>https://gf-20.github.io/2021/03228485.html</id>
+    <link href="gits://gf-20.github.io/2021/03228485.html"/>
+    <id>gits://gf-20.github.io/2021/03228485.html</id>
     <published>2021-03-22T15:34:46.000Z</published>
     <updated>2021-04-07T14:27:36.212Z</updated>
     
@@ -90,8 +90,8 @@
   
   <entry>
     <title>歌词</title>
-    <link href="https://gf-20.github.io/2021/020961356.html"/>
-    <id>https://gf-20.github.io/2021/020961356.html</id>
+    <link href="gits://gf-20.github.io/2021/020961356.html"/>
+    <id>gits://gf-20.github.io/2021/020961356.html</id>
     <published>2021-02-09T03:00:54.000Z</published>
     <updated>2021-02-09T03:34:10.772Z</updated>
     
@@ -108,14 +108,14 @@
     
     
     
-    <category term="粤语" scheme="https://gf-20.github.io/tags/%E7%B2%A4%E8%AF%AD/"/>
+    <category term="粤语" scheme="gits://gf-20.github.io/tags/粤语/"/>
     
   </entry>
   
   <entry>
     <title>2021</title>
-    <link href="https://gf-20.github.io/2021/0102986.html"/>
-    <id>https://gf-20.github.io/2021/0102986.html</id>
+    <link href="gits://gf-20.github.io/2021/0102986.html"/>
+    <id>gits://gf-20.github.io/2021/0102986.html</id>
     <published>2021-01-02T03:12:15.000Z</published>
     <updated>2021-04-07T01:49:21.940Z</updated>
     
@@ -132,14 +132,14 @@
     
     
     
-    <category term="feel" scheme="https://gf-20.github.io/tags/feel/"/>
+    <category term="feel" scheme="gits://gf-20.github.io/tags/feel/"/>
     
   </entry>
   
   <entry>
     <title>一千零一夜</title>
-    <link href="https://gf-20.github.io/2020/122143137.html"/>
-    <id>https://gf-20.github.io/2020/122143137.html</id>
+    <link href="gits://gf-20.github.io/2020/122143137.html"/>
+    <id>gits://gf-20.github.io/2020/122143137.html</id>
     <published>2020-12-21T06:03:39.000Z</published>
     <updated>2021-01-20T01:48:01.565Z</updated>
     
@@ -159,8 +159,8 @@
   
   <entry>
     <title>hi,you</title>
-    <link href="https://gf-20.github.io/2020/120648993.html"/>
-    <id>https://gf-20.github.io/2020/120648993.html</id>
+    <link href="gits://gf-20.github.io/2020/120648993.html"/>
+    <id>gits://gf-20.github.io/2020/120648993.html</id>
     <published>2020-12-06T13:02:49.000Z</published>
     <updated>2020-12-06T13:27:04.051Z</updated>
     
@@ -176,14 +176,14 @@
     
     
     
-    <category term="就是想写" scheme="https://gf-20.github.io/tags/%E5%B0%B1%E6%98%AF%E6%83%B3%E5%86%99/"/>
+    <category term="就是想写" scheme="gits://gf-20.github.io/tags/就是想写/"/>
     
   </entry>
   
   <entry>
     <title>尽头</title>
-    <link href="https://gf-20.github.io/2020/111749944.html"/>
-    <id>https://gf-20.github.io/2020/111749944.html</id>
+    <link href="gits://gf-20.github.io/2020/111749944.html"/>
+    <id>gits://gf-20.github.io/2020/111749944.html</id>
     <published>2020-11-17T06:10:50.000Z</published>
     <updated>2020-11-17T16:05:26.635Z</updated>
     
@@ -203,8 +203,8 @@
   
   <entry>
     <title>RHCSA考试内容</title>
-    <link href="https://gf-20.github.io/2020/110138658.html"/>
-    <id>https://gf-20.github.io/2020/110138658.html</id>
+    <link href="gits://gf-20.github.io/2020/110138658.html"/>
+    <id>gits://gf-20.github.io/2020/110138658.html</id>
     <published>2020-11-01T01:27:39.000Z</published>
     <updated>2020-12-21T06:28:37.746Z</updated>
     
@@ -224,14 +224,14 @@
     
     
     
-    <category term="learning" scheme="https://gf-20.github.io/tags/learning/"/>
+    <category term="learning" scheme="gits://gf-20.github.io/tags/learning/"/>
     
   </entry>
   
   <entry>
     <title>笔记</title>
-    <link href="https://gf-20.github.io/2020/10308022.html"/>
-    <id>https://gf-20.github.io/2020/10308022.html</id>
+    <link href="gits://gf-20.github.io/2020/10308022.html"/>
+    <id>gits://gf-20.github.io/2020/10308022.html</id>
     <published>2020-10-30T02:03:45.000Z</published>
     <updated>2020-10-30T02:28:54.380Z</updated>
     
@@ -248,14 +248,14 @@
     
     
     
-    <category term="摘录" scheme="https://gf-20.github.io/tags/%E6%91%98%E5%BD%95/"/>
+    <category term="摘录" scheme="gits://gf-20.github.io/tags/摘录/"/>
     
   </entry>
   
   <entry>
     <title>终是归还</title>
-    <link href="https://gf-20.github.io/2020/102919856.html"/>
-    <id>https://gf-20.github.io/2020/102919856.html</id>
+    <link href="gits://gf-20.github.io/2020/102919856.html"/>
+    <id>gits://gf-20.github.io/2020/102919856.html</id>
     <published>2020-10-29T15:40:48.000Z</published>
     <updated>2021-03-30T06:15:12.468Z</updated>
     
@@ -272,14 +272,14 @@
     
     
     
-    <category term="日记" scheme="https://gf-20.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    <category term="日记" scheme="gits://gf-20.github.io/tags/日记/"/>
     
   </entry>
   
   <entry>
     <title>随笔</title>
-    <link href="https://gf-20.github.io/2020/102943432.html"/>
-    <id>https://gf-20.github.io/2020/102943432.html</id>
+    <link href="gits://gf-20.github.io/2020/102943432.html"/>
+    <id>gits://gf-20.github.io/2020/102943432.html</id>
     <published>2020-10-29T09:10:45.000Z</published>
     <updated>2020-10-29T10:09:03.660Z</updated>
     
@@ -295,7 +295,7 @@
     
     
     
-    <category term="feel" scheme="https://gf-20.github.io/tags/feel/"/>
+    <category term="feel" scheme="gits://gf-20.github.io/tags/feel/"/>
     
   </entry>
   
